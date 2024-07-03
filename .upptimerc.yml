@@ -3,10 +3,12 @@ owner: EpicGamer007 # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: Coolify Dashboard
-    url: https://coolify.abhay7.dev
-  - name: Umami Analytics
-    url: https://analytics.abhay7.dev
+#  - name: Coolify Dashboard
+#    url: https://coolify.abhay7.dev
+#  - name: Umami Analytics
+#    url: https://analytics.abhay7.dev
+  - name: Blog
+    url: https://blog.abhay7.dev
   - name: Status Page
     url: https://status.abhay7.dev
 
