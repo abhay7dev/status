@@ -4,10 +4,10 @@
     "url": "https://blog.abhay7.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.abhay7.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -15,16 +15,18 @@
     "timeWeek": 213,
     "timeMonth": 201,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 2
+    }
   },
   {
     "name": "Status Page",
     "url": "https://status.abhay7.dev",
     "icon": "https://icons.duckduckgo.com/ip3/status.abhay7.dev.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 224,
     "timeMonth": 208,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
