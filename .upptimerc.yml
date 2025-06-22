@@ -7,6 +7,8 @@ sites:
 #    url: https://coolify.abhay7.dev
 #  - name: Umami Analytics
 #    url: https://analytics.abhay7.dev
+  - name: Personal Site
+    url: https://abhay7.dev
   - name: Blog
     url: https://blog.abhay7.dev
   - name: Status Page
@@ -36,7 +38,7 @@ status-website:
     - name: "robots"
       content: "noindex"
 
-user-agent: EpicGamer007
+user-agent: abhay7dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
