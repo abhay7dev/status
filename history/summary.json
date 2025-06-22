@@ -1,5 +1,23 @@
 [
   {
+    "name": "Personal Site",
+    "url": "https://abhay7.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/abhay7.dev.ico",
+    "slug": "personal-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Blog",
     "url": "https://blog.abhay7.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.abhay7.dev.ico",
@@ -11,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 254,
-    "timeWeek": 199,
-    "timeMonth": 191,
+    "timeDay": 169,
+    "timeWeek": 200,
+    "timeMonth": 190,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -29,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 226,
-    "timeWeek": 183,
-    "timeMonth": 189,
+    "timeDay": 214,
+    "timeWeek": 198,
+    "timeMonth": 190,
     "timeYear": 188,
     "dailyMinutesDown": {}
   }
