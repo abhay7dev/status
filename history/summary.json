@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/abhay7.dev.ico",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "77.74%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.81%",
     "time": 268,
-    "timeDay": 105,
-    "timeWeek": 134,
-    "timeMonth": 297,
+    "timeDay": 144,
+    "timeWeek": 145,
+    "timeMonth": 298,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-10-18": 0
+      "2025-10-19": 102,
+      "2025-10-18": 218
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.abhay7.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 173,
-    "timeWeek": 203,
-    "timeMonth": 206,
+    "uptime": "99.95%",
+    "uptimeDay": "77.75%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.94%",
+    "time": 227,
+    "timeDay": 168,
+    "timeWeek": 204,
+    "timeMonth": 204,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-10-18": 0
+      "2025-10-19": 102,
+      "2025-10-18": 218
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.abhay7.dev.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "77.74%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.94%",
     "time": 207,
     "timeDay": 153,
-    "timeWeek": 182,
-    "timeMonth": 198,
+    "timeWeek": 184,
+    "timeMonth": 195,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-10-18": 0
+      "2025-10-19": 102,
+      "2025-10-18": 218
     }
   }
 ]
